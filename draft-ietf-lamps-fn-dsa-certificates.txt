@@ -15,7 +15,7 @@ Expires: 20 November 2026                                      S. Turner
  Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for
   the Fast-Fourier Transform over NTRU-Lattice-Based Digital Signature
                            Algorithm (FN-DSA)
-             draft-turner-lamps-fn-dsa-certificates-latest
+              draft-ietf-lamps-fn-dsa-certificates-latest
 
 Abstract
 
@@ -31,11 +31,11 @@ About This Document
 
    This note is to be removed before publishing as an RFC.
 
-   The latest revision of this draft can be found at
-   https://seanturner.github.io/fn-dsa-certificates/draft-turner-lamps-
-   fn-dsa-certificates.html.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-turner-lamps-fn-
-   dsa-certificates/.
+   The latest revision of this draft can be found at https://lamps-
+   wg.github.io/fn-dsa-certificates/draft-ietf-lamps-fn-dsa-
+   certificates.html.  Status information for this document may be found
+   at https://datatracker.ietf.org/doc/draft-ietf-lamps-fn-dsa-
+   certificates/.
 
    Discussion of this document takes place on the Limited Additional
    Mechanisms for PKIX and SMIME Working Group mailing list
@@ -44,7 +44,7 @@ About This Document
    https://www.ietf.org/mailman/listinfo/spasm/.
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/seanturner/fn-dsa-certificates.
+   https://github.com/lamps-wg/fn-dsa-certificates.
 
 Status of This Memo
 
