@@ -6,7 +6,7 @@ title: >
 abbrev: FN-DSA in Certificates
 category: std
 
-docname: draft-turner-lamps-fn-dsa-certificates-latest
+docname: draft-ietf-lamps-fn-dsa-certificates-latest
 submissiontype: IETF
 number:
 date:
@@ -25,8 +25,8 @@ venue:
   type: "Working Group"
   mail: "spasm@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/spasm/"
-  github: "seanturner/fn-dsa-certificates"
-  latest: "https://seanturner.github.io/fn-dsa-certificates/draft-turner-lamps-fn-dsa-certificates.html"
+  github: "lamps-wg/fn-dsa-certificates"
+  latest: "https://lamps-wg.github.io/fn-dsa-certificates/draft-ietf-lamps-fn-dsa-certificates.html"
 
 author:
  -
@@ -123,7 +123,8 @@ informative:
     doi: 10.1145/2930889.2930923
     organization: "Association for Computing Machinery (ACM)"
     address: "New York, NY, USA"
----
+
+...
 
 --- abstract
 
