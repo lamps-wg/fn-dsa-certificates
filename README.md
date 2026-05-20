@@ -2,18 +2,18 @@
 
 # Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Fast-Fourier Transform over NTRU-Lattice-Based Digital Signature Algorithm (FN-DSA)
 
-This is the working area for the individual Internet-Draft, "Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Fast-Fourier Transform over NTRU-Lattice-Based Digital Signature Algorithm (FN-DSA)".
+This is the working area for the LAMPS WG's Internet-Draft, "Internet X.509 Public Key Infrastructure -- Algorithm Identifiers for the Fast-Fourier Transform over NTRU-Lattice-Based Digital Signature Algorithm (FN-DSA)".
 
-* [Editor's Copy](https://seanturner.github.io/fn-dsa-certificates/#go.draft-turner-lamps-fn-dsa-certificates.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-turner-lamps-fn-dsa-certificates)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-turner-lamps-fn-dsa-certificates)
-* [Compare Editor's Copy to Individual Draft](https://seanturner.github.io/fn-dsa-certificates/#go.draft-turner-lamps-fn-dsa-certificates.diff)
+* [Editor's Copy](https://lamps-wg.github.io/fn-dsa-certificates/#go.draft-ietf-lamps-fn-dsa-certificates.html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-lamps-fn-dsa-certificates)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-fn-dsa-certificates)
+* [Compare Editor's Copy to WG Draft](https://seanturner.github.io/fn-dsa-certificates/#go.draft-ietf-lamps-fn-dsa-certificates.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/seanturner/fn-dsa-certificates/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/lamps-wg/fn-dsa-certificates/blob/main/CONTRIBUTING.md).
 
 The contributing file also has tips on how to make contributions, if you
 don't already know how to do that.
