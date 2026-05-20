@@ -6,7 +6,6 @@ This is the working area for the LAMPS WG's Internet-Draft, "Internet X.509 Publ
 
 * [Editor's Copy](https://lamps-wg.github.io/fn-dsa-certificates/#go.draft-ietf-lamps-fn-dsa-certificates.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-lamps-fn-dsa-certificates)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-ietf-lamps-fn-dsa-certificates)
 * [Compare Editor's Copy to WG Draft](https://lamps-wg.github.io/fn-dsa-certificates/#go.draft-ietf-lamps-fn-dsa-certificates.diff)
 
 
