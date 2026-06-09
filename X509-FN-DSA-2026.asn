@@ -34,7 +34,7 @@ id-fn-dsa-1024 OBJECT IDENTIFIER ::= { sigAlgs XX }
 --
 
 PublicKeys PUBLIC-KEY ::= {
-  -- This expands PublicKeys from [RFC 5912]
+  -- This expands PublicKeyAlgorithms from [RFC 5912]
   pk-fn-dsa-512 |
   pk-fn-dsa-1024,
   ...
@@ -72,7 +72,7 @@ FN-DSA-PrivateKey ::= OCTET STRING (SIZE (32))
 -- Signature Algorithms
 --
 
-SignatureAlgorithms SIGNATURE-ALGORITHM ::= {
+SignatureAlgs SIGNATURE-ALGORITHM ::= {
   -- This expands SignatureAlgorithms from [RFC 5912]
   sa-fn-dsa-512 |
   sa-fn-dsa-1024,
