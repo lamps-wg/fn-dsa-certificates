@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-05-21T02:10:51.999539+00:00",
+  "timestamp": "2026-06-11T02:37:33.091754+00:00",
   "repo": "lamps-wg/fn-dsa-certificates",
   "labels": [
     {
@@ -291,6 +291,32 @@
       "mergeCommit": {
         "oid": "ba26f8af1102b59e11fbbb95970ad07cd8aec95b"
       },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 10,
+      "id": "PR_kwDOQHeIPM7kULBv",
+      "title": "Change ASN.1 set names and comments to align with RFC 5912 convention",
+      "url": "https://github.com/lamps-wg/fn-dsa-certificates/pull/10",
+      "state": "OPEN",
+      "author": "danvangeest",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-06-09T09:44:47Z",
+      "updatedAt": "2026-06-09T09:44:47Z",
+      "baseRepository": "lamps-wg/fn-dsa-certificates",
+      "baseRefName": "main",
+      "baseRefOid": "ba26f8af1102b59e11fbbb95970ad07cd8aec95b",
+      "headRepository": "danvangeest/fn-dsa-certificates",
+      "headRefName": "dvg/fix_asn1_naming",
+      "headRefOid": "3541830349808c41e95241845ca38bc1d51ff6e3",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
       "comments": [],
       "reviews": []
     }
